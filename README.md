@@ -55,12 +55,9 @@ http://localhost:8080
 Notes:
 This project is intentionally built in a clean and understandable way so that the backend architecture, authentication flow, and coding style can be evaluated easily.
 It can serve as a base for production-level extensions.
-Developer
 
+Developer :
 Ravi Teja Bollina
 LinkedIn: https://linkedin.com/in/ravitejabollina
-Developer
 
-Ravi Teja Bollina
-LinkedIn: https://linkedin.com/in/ravitejabollina
 GitHub: https://github.com/RAVITEJABOLLINA
